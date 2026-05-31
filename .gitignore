@@ -77,3 +77,13 @@ desktop.ini
 .idea/
 *.swp
 *~
+
+# --- Secretos / credenciales (NUNCA commitear) ---
+.env
+.env.*
+*credentials*
+*secrets*
+*.key
+*.pem
+ftp-*.txt
+server-creds*
