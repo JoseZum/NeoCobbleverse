@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "734d41b9beb92058312f92babe96a352ddb0a1ad"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/7727/116/playerxp-neoforge-1.0.8%2b1.21.1.jar"
 [update]
 [update.curseforge]
 file-id = 7727116

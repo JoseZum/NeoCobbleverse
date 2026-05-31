@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "5c486c89b01301d367b4a9fe3cd16d68d4af2809"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/6881/784/%c2%a79Drodi%27s%20Arsenal%20%5bV1.4.1%5d.zip"
 [update]
 [update.curseforge]
 file-id = 6881784

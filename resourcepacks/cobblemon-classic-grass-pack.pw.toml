@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "c0943d03bd4a23439a10a478f1a00ae3a390bfad"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/5971/658/Cobblemon%20Classic%20Grass%20Pack%20v1.0%20MC1.21.1.zip"
 [update]
 [update.curseforge]
 file-id = 5971658

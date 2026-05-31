@@ -158,7 +158,7 @@ packwiz refresh
 - **Curios API:** se usa **Accessories** en su lugar via `accessories_compat_layer`. Mods que pidan Curios pueden fallar.
 - **Storage:** Sophisticated Backpacks/Storage + Tom's Storage ya cubren mucho.
 - **Animaciones:** NotEnoughAnimations + Crawl + BetterThirdPerson + PresenceFootsteps — cuidado con Epic Fight / Better Combat.
-- **Mods con `allowModDistribution=false` en CurseForge:** packwiz NO puede descargarlos por CDN; el bootstrap dejara una ventana para abrir la pagina del mod y descargar manualmente. En el pack actual hay ~21 mods en esta situacion (Fresh Animations, varios addons de Cobblemon/Create propietarios, etc.).
+- **Mods con `allowModDistribution=false` en CurseForge:** parcheados con URL CDN directa en sus `.pw.toml` (ver `.packwiz/patch_restricted.py`). Si re-importas desde `manifest.json`, re-ejecutar el script para volver a aplicarlos.
 
 ---
 

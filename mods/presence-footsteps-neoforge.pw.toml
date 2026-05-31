@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "71bd6de2b01441d92be1e109879b76b7750bd787"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/7252/696/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar"
 [update]
 [update.curseforge]
 file-id = 7252696

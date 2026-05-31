@@ -33,12 +33,16 @@ file = ".packwiz/manifest.json"
 hash = "6ff826afcdcadb2b9d22305907b17ac7903168b4fd564ac0b039cc59792eb035"
 
 [[files]]
+file = ".packwiz/patch_restricted.py"
+hash = "95e5ea5b5a9e913549e41aa7cc2c88d3bda36b6aeb4001f87432cc57fbc8ee1f"
+
+[[files]]
 file = ".sable/natives/sable_rapier_x86_64_windows.dll"
 hash = "52ba0aade660a2cb7ae89794fc8366a5eed7ab9d42b72cc584213cbf0c681c86"
 
 [[files]]
 file = "README.md"
-hash = "379c96e7fbf0e59d36c478483d80d191d28e5cd8cd861d9fe6290438e765d332"
+hash = "0d3fbbf7f939f4897025de0fc298de673c1673577bd35561feb2300f98bddbb7"
 
 [[files]]
 file = "XaeroWaypoints_BACKUP240807/New World/config.txt"
@@ -1626,10 +1630,6 @@ file = "minecraftinstance.json"
 hash = "fcafd4d1dd64ccbfc202ce388336b0969c8de2cdcb9859ec25bf5589f477cd6d"
 
 [[files]]
-file = "mods.txt"
-hash = "c92a3e6ded369053747143328216f55ea4130452077d9570bd3791412beae82d"
-
-[[files]]
 file = "mods/.connector/CobbleverseBadges-1.3_mapped_moj_1.21.1.jar"
 hash = "16a230d4697f7d48e1d28d6e38b1e4a0189d28f1c3bf8cd4d9aa3992d2ba255a"
 
@@ -2342,7 +2342,7 @@ hash = "081d9ba2ddaae3f9b3240c0b4d49b75c4f93ab2b6e9bbb7bb69a3bc05520e1d9"
 
 [[files]]
 file = "mods/cobblecuisine.pw.toml"
-hash = "a57fdae782dfeb84942cc6bab0273474715fbfcbd8e16700e54ae544056e66a2"
+hash = "a9d2b3305917fb37e82e82bf7e9f8fffc1227a5dfe4e5da5efae05c18a8ebb99"
 metafile = true
 
 [[files]]
@@ -2399,17 +2399,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "850defc07f2d03ea029499c7071e803069fc843cab1cd9be2fd799fe73b47809"
+hash = "210ad6a8d1a874659d1a6011e077d09d143d91f4624fb44128bd080a693c183a"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "6565a62e8a44a6f8492343251788c59a66f8896fef2a5f76d4016df73057230e"
+hash = "d2f91e7ad2f3079b376bcd01c15b0071dca8e179588eace87c3e393d7d754960"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "525285c1d963624b441ad1b32674f6029f10379ed8bd549304a58b4af33630de"
+hash = "6454e9391ececae447e90cb40bb4bb9a72f3658e7045f12405783c9ab06eb029"
 metafile = true
 
 [[files]]
@@ -2437,7 +2437,7 @@ hash = "d95c321c954d8aeea3b1198b1f654bb90fd328070a02014f5c7f6087adb51e89"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
-hash = "6fada03f0a3b5036a3bf42dd417cdfd2d3edc03581998fbf05a01de4033ad63d"
+hash = "b19bbda2a532a7e9f542d8c93961f35f310169a995ec204056b5ba7a8d19ed50"
 metafile = true
 
 [[files]]
@@ -2513,7 +2513,7 @@ hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+hash = "38d385d1654d86305d933a35a5b720f6d09ffb76e0fc4e4e28389a1154cba45b"
 metafile = true
 
 [[files]]
@@ -2552,7 +2552,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-oxidized.pw.toml"
-hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
+hash = "07da40d93780248e46820a3ea6b1894bfe6cd7c6f04444e1775b9f61a4664837"
 metafile = true
 
 [[files]]
@@ -2686,7 +2686,7 @@ hash = "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
+hash = "8c4ff5aa0360ad17f09082f5bf28f717476e3084be1fa1f5119b949eaf85a546"
 metafile = true
 
 [[files]]
@@ -2763,7 +2763,7 @@ hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
 
 [[files]]
 file = "mods/gears-n-kinetics.pw.toml"
-hash = "ce35bf5e845d46c98e22131cb8e04e147aafe62d3492da97a1a3090621af0281"
+hash = "b43b083519a52f6bdcc063a64926cff3569e3a9a07bf8844610a6aa85f9c290f"
 metafile = true
 
 [[files]]
@@ -2901,7 +2901,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumymon.pw.toml"
-hash = "204192bec476299b7564a69692ce7a09d0f7850b4c4f638caaac218cd81009bd"
+hash = "b0918a9a4dd1854310a3e12c57841a90ff47c718b4419801692682d282a3cbc7"
 metafile = true
 
 [[files]]
@@ -2983,7 +2983,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-za-megas.pw.toml"
-hash = "b3709f890cb2ebd8f1b06081819c567fe1617dd9b952dc9db0622a0f70057004"
+hash = "9b5be7db8a3177edd2e5db1d4a78f6a2019e5f2d98d390083d72c05ce0e90fce"
 metafile = true
 
 [[files]]
@@ -3001,7 +3001,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "6b78f9db27625d67d253d0e7bf9b355f757362ea56b440a6d759d1149138c6f2"
+hash = "c019f7874b47ac02d16da28de7e1f84ada38b138c229415a3ccd95fe006d805a"
 metafile = true
 
 [[files]]
@@ -3028,7 +3028,7 @@ hash = "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
 
 [[files]]
 file = "mods/only-bottle-caps.pw.toml"
-hash = "09f3b0933f52aafb3d39dc1be76a5be9701af1c5101dbb29892097e8cabc3579"
+hash = "2ccc6fd46908ab4d92412a308596f00197db5139265fa79c5436c6254c798cb7"
 metafile = true
 
 [[files]]
@@ -3110,7 +3110,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
+hash = "866926df7e61ec0d20a7d97e35da7f25f1b5e4f3bf3c0524a025aa52359c85aa"
 metafile = true
 
 [[files]]
@@ -3234,7 +3234,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
+hash = "7bc8f69160e4b9195b5b3ed438b0015395b680328396dc1e230e257739a1c456"
 metafile = true
 
 [[files]]
@@ -3613,12 +3613,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
-hash = "aaa1d10baed5dbeef2ec9203c37c08e0359337913c5d8cdf2b7b5a096f02a14d"
+hash = "75fc4794bfa2e4c70c7defdb92a60a603816c033980ca045c843a9f2d0c6fa3d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "5fa91576fc22dd0acb6d3f91384eb9c194f0cc0ce741506af572f78ac6bd8a3b"
+hash = "68dae732ce2821f5f1fcbada501764d967c2e370a4ee19d9e88daad0d528a168"
 metafile = true
 
 [[files]]
@@ -3633,12 +3633,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/complete-cobblemon-collection.pw.toml"
-hash = "ae99975ce98877215317bb0bf593bf1c9a26df07da175f744288914c5266f565"
+hash = "56e605522e99c876903ef98e3c73d3b846452398764b858b6819c1fcb0055c3c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/drodis-arsenal.pw.toml"
-hash = "bfc7cb4b54cd1ef32fce81a5bf5ffe4866213ad99aa5ad1602ffb9f05b194945"
+hash = "352909636a460c7e34e2f5282afab9d8a0c714a432ea9059b191dd0463847645"
 metafile = true
 
 [[files]]
@@ -3658,12 +3658,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "71c792c84b3ffef257e16ae86fdb9a3dfd4d5ef9d4d0c4f897290235d6a84923"
+hash = "a40c5dc104aa9f50f7d31dc2a212d66d16b6f2d34cbe6f9f761e12fb8c3a6224"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+hash = "ba4511e4dbc9526ff90736ca9bad92ef89e0e48c93e0b291080533b06a1f53cd"
 metafile = true
 
 [[files]]

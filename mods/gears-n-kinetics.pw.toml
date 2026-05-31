@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "15cc60c8864ac8b5329723a55a97a548980611de"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/7449/378/GnKinetics-1.21.1-1.0m.jar"
 [update]
 [update.curseforge]
 file-id = 7449378

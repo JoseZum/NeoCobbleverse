@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "8e213de6013b6a58485ba8ddfcff5c91b3beb41d"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/7251/451/CobbleverseBadges-1.3.jar"
 [update]
 [update.curseforge]
 file-id = 7251451

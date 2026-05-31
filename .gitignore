@@ -4,15 +4,17 @@
 # =========================================================
 
 # --- Binarios de mods (los descarga packwiz desde .pw.toml) ---
-mods/*.jar
-mods/*.disabled
+mods/**/*.jar
+mods/**/*.disabled
+mods/.connector/
 
 # --- Resource packs descargados (versionados via .pw.toml) ---
-resourcepacks/*.zip
-resourcepacks/*.rpo
+resourcepacks/**/*.zip
+resourcepacks/**/*.rpo
 
 # --- Datapacks descargados (no van en packwiz, backup aparte) ---
-datapacks/*.zip
+datapacks/**/*.zip
+datapacks/extra/
 
 # --- Shaderpacks ---
 shaderpacks/*.zip
@@ -45,7 +47,15 @@ downloads/
 emi.json
 ponders_watched.json
 legendary-monuments-data/
-XaeroWaypoints_BACKUP*/
+XaeroWaypoints*/
+xaero/
+shaderpacks/
+journeymap/
+mods/cache/
+config/cache/
+
+# Pero NO ignorar los defaultconfigs propios si los hay (descomenta si quieres versionarlos)
+# !defaultconfigs/.gitkeep
 
 # --- Metadata del launcher de CurseForge (se regenera) ---
 minecraftinstance.json

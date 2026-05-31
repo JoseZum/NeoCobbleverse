@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "0599cd556bafd67537690ebe037bc7e4a88c2542"
-mode = "metadata:curseforge"
-
+url = "https://edge.forgecdn.net/files/7057/797/Cobblemon%20Interface%20Modded%20v1.9.4.zip"
 [update]
 [update.curseforge]
 file-id = 7057797
