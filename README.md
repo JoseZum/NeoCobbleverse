@@ -8,7 +8,7 @@ Repo privado, gestionado con **[packwiz](https://packwiz.infra.link/)** — los 
 ## Versiones base
 
 - **Minecraft:** 1.21.1
-- **Mod loader:** NeoForge 21.1.233
+- **Mod loader:** NeoForge 21.1.226
 - **Cobblemon:** 1.7.3
 - **Create:** 6.0.10 (+ Create Connected, Create Aeronautics)
 - **Total:** 157 mods + 21 resourcepacks + 1 shaderpack (Complementary Unbound)
@@ -50,7 +50,7 @@ Lo que NO se versiona (ver `.gitignore`): `mods/*.jar`, `resourcepacks/*.zip`, `
 
 1. **Crear instance vacio** en el launcher con:
    - Minecraft `1.21.1`
-   - NeoForge `21.1.233`
+   - NeoForge `21.1.226`
 2. Localizar la carpeta del instance (Prism: clic derecho sobre el instance → Folder → Instance Folder; CurseForge: clic derecho → Open Folder).
 3. **Clonar este repo dentro de la carpeta del instance** (puede que tu launcher use `minecraft/` o `.minecraft/` como subfolder — el clon va ahi):
    ```bash
