@@ -16,6 +16,10 @@ resourcepacks/**/*.rpo
 datapacks/**/*.zip
 datapacks/extra/
 
+# --- Exports de CurseForge (van a GitHub Releases, no al repo) ---
+NeoCobbleverse*.zip
+*-export.zip
+
 # --- Shaderpacks ---
 shaderpacks/*.zip
 shaderpacks/*.zip.txt
