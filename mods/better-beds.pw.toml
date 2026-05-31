@@ -1,0 +1,13 @@
+name = "Better Beds"
+filename = "betterbeds-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48f215da24598e4ad93efc7d0ca0a6f91660069f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5437846
+project-id = 443782

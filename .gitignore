@@ -1,0 +1,64 @@
+# =========================================================
+# NeoCobbleverse - .gitignore
+# packwiz versiona .pw.toml; los .jar y .zip se descargan
+# =========================================================
+
+# --- Binarios de mods (los descarga packwiz desde .pw.toml) ---
+mods/*.jar
+mods/*.disabled
+
+# --- Resource packs descargados (versionados via .pw.toml) ---
+resourcepacks/*.zip
+resourcepacks/*.rpo
+
+# --- Datapacks descargados (no van en packwiz, backup aparte) ---
+datapacks/*.zip
+
+# --- Shaderpacks ---
+shaderpacks/*.zip
+shaderpacks/*.zip.txt
+
+# --- Mundos y estado del jugador ---
+saves/
+backups/
+screenshots/
+replay_recordings/
+schematics/
+
+# --- Logs y crashes ---
+logs/
+crash-reports/
+.cache/
+hs_err_pid*.log
+fabricloader.log
+
+# --- Caches / datos generados por mods en runtime ---
+.mixin.out/
+.sable/
+.fabric/
+cobblemon-battle-logs/
+cobblenav/
+data/
+moddata/
+defaultconfigs/
+downloads/
+emi.json
+ponders_watched.json
+legendary-monuments-data/
+XaeroWaypoints_BACKUP*/
+
+# --- Metadata del launcher de CurseForge (se regenera) ---
+minecraftinstance.json
+manifest.json
+modlist.html
+profile.json
+.curseclient
+
+# --- Sistema operativo / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

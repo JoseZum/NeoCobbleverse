@@ -1,0 +1,13 @@
+name = "CobbleCuisine"
+filename = "cobblecuisine-2.0.1-1.7-rc1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31cf544fe61bb9c21fa8dafe5c03a428049a0f37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7265785
+project-id = 1254643

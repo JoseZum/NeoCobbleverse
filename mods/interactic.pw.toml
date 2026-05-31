@@ -1,0 +1,13 @@
+name = "Interactic"
+filename = "interactic-0.2.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bb259b6b82f75f9f7302b2f08efafc146ae576e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5592999
+project-id = 510974

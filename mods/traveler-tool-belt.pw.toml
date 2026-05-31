@@ -1,0 +1,13 @@
+name = "Traveler Tool Belt"
+filename = "travelertoolbelt-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3123efa9eaf4b8622d3841c08d90eef5aa9d041"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7672295
+project-id = 1457447

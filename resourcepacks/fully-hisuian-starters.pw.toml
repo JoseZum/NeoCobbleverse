@@ -1,0 +1,13 @@
+name = "Fully Hisuian Starters (Cobblemon)"
+filename = "Fully Hisuian Starters 1.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aec849f89f5351c30ef31da5d91691aebfaac590"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7550982
+project-id = 1017383

@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens"
+filename = "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8a59998f39284b936dbd7da5ef08be88a732579"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7938530
+project-id = 1349231

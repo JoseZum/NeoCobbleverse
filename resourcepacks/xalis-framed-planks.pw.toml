@@ -1,0 +1,13 @@
+name = "xali's Framed Planks"
+filename = "xali's Framed Planks v1.3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c93734febc079cbc167ea93b099519ba0a4474dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6148599
+project-id = 828127

@@ -1,0 +1,13 @@
+name = "E19 - Cobblemon Minimap Icons"
+filename = "E19 Cobblemon Minimap Icons.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1aefc7a313b3c6f719d2fa53916afff18cd0792f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7585194
+project-id = 958737

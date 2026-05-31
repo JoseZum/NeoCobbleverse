@@ -1,0 +1,13 @@
+name = "Drodi's Arsenal"
+filename = "§9Drodi's Arsenal [V1.4.1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c486c89b01301d367b4a9fe3cd16d68d4af2809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6881784
+project-id = 1224820

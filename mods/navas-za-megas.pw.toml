@@ -1,0 +1,13 @@
+name = "Navas ZA Megas"
+filename = "zamega-neoforge-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "937a9999f9ca1efd35f00fd915d0dd6db382ff0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7868098
+project-id = 1452045

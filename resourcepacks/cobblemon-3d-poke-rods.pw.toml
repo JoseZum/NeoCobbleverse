@@ -1,0 +1,13 @@
+name = "Cobblemon 3D Poke Rods"
+filename = "Cobblemon 3D Poké Rods 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5a92bf0d82abba72eb3a93f6e8bd40560d1c247"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6060565
+project-id = 1173260

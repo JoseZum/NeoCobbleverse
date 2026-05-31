@@ -1,0 +1,13 @@
+name = "MobsBeGone"
+filename = "MobsBeGone-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6335518bd5ebce9734669f5ed5fb0df3e7ceabb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6742844
+project-id = 1302442

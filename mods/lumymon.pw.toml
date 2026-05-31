@@ -1,0 +1,13 @@
+name = "LumyMon"
+filename = "LumyMon-0.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "309b30cfa5a51b998168079c8215869b1e1cb68b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7876549
+project-id = 1301989

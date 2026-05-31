@@ -1,0 +1,13 @@
+name = "Cobblemon Catch Rate Display"
+filename = "catchrate-display-neoforge-2.8.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26f66ef2b9ff12d08c4b2cdf3144914e25112400"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7859862
+project-id = 1450604

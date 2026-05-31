@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-neoforge-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b846195c118429ce3eb666e485d992e74dbc12ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5447146
+project-id = 667245

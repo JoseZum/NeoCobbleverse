@@ -1,0 +1,13 @@
+name = "Complete Cobblemon Collection"
+filename = "COBBLEVERSE-CCC.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30db98755a6a0ca565ec8ccd13503c180f6a40b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7812941
+project-id = 1258311

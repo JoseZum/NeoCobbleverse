@@ -1,0 +1,13 @@
+name = "wjrkferfg"
+filename = "tia-neoforge-1.21-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60b6164e5329b7c13775fc9c921bf375f5ba5934"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7121755
+project-id = 1360659

@@ -1,0 +1,13 @@
+name = "In-Game Brewing Guide"
+filename = "Brewing Guide 1.21.1 to 1.21.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3826aa3cba9be2926d22902d7d239c7daa0377b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6179681
+project-id = 492872

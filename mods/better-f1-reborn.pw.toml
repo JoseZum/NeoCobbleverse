@@ -1,0 +1,13 @@
+name = "Better F1 Reborn"
+filename = "betterf1-NeoForge-1.1-1.21.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43169a55c38ad29f611f08145d41250abd1cc302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6707094
+project-id = 959591

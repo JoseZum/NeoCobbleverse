@@ -1,0 +1,13 @@
+name = "Pokeblocks"
+filename = "pokeblocks-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a767426171b3085775b57bfd53b66fe7fa6edd88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7866584
+project-id = 1078431

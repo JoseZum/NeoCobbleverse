@@ -1,0 +1,13 @@
+name = "[Reforged] Accurate Block Placement"
+filename = "[Neoforge-1.21.1]Accurateblockplacement 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d165a36e0af40daab17daf16214e60c3d70c58cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6661604
+project-id = 1288688

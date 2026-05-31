@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "Platform-neoforge-1.21.1-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64a91143d14a045f0c94ee548d8ec608e468232f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7811411
+project-id = 997634

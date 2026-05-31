@@ -1,0 +1,13 @@
+name = "(Bee's) Fancy Crops"
+filename = "Fancy Crops v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7b75543839378884e4e86aa8c0d445f8cf354e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6779837
+project-id = 884709

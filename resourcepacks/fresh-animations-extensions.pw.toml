@@ -1,0 +1,13 @@
+name = "Fresh Animations: Extensions"
+filename = "FA+Objects-v1.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a08b2463761c3da201444a0a61f7d4c689e6c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6599939
+project-id = 813608

@@ -1,0 +1,13 @@
+name = "Carved Wood"
+filename = "Carved Wood-neoforge-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c97c9c6cfa0389f6556413c66187d9236414bcd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7409689
+project-id = 1335174
