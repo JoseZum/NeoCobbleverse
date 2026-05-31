@@ -114,6 +114,29 @@ for jar in all_jars:
 # 3. Copy config dir (server reads same configs)
 shutil.copytree(CONFIG_SRC, os.path.join(OUT_DIR, 'config'))
 
+# 3a. Strip references to client-only mod items from CobbleDollars configs
+import json
+CLIENT_ITEM_PREFIXES = ('lumymon:',)
+def strip_client_items(obj):
+    if isinstance(obj, list):
+        return [strip_client_items(x) for x in obj
+                if not (isinstance(x, dict) and isinstance(x.get('item'), str)
+                        and any(x['item'].startswith(p) for p in CLIENT_ITEM_PREFIXES))]
+    if isinstance(obj, dict):
+        return {k: strip_client_items(v) for k, v in obj.items()}
+    return obj
+
+for cfg in ['cobbledollars/bank.json', 'cobbledollars/default_shop.json']:
+    p = os.path.join(OUT_DIR, 'config', cfg)
+    if not os.path.exists(p):
+        continue
+    with open(p, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    cleaned = strip_client_items(data)
+    with open(p, 'w', encoding='utf-8') as f:
+        json.dump(cleaned, f, indent=2, ensure_ascii=False)
+    print(f'  cleaned server config: {cfg}')
+
 # 4. Copy defaultconfigs if exists
 if os.path.exists(DEFCONF_SRC):
     shutil.copytree(DEFCONF_SRC, os.path.join(OUT_DIR, 'defaultconfigs'))
