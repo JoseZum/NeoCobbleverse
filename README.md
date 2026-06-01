@@ -1,5 +1,7 @@
 # NeoCobbleverse
 
+![NeoCobbleverse](cobbleverse-curseforge-jpg.jpg)
+
 Modpack personal: **Cobbleverse porteado a NeoForge** + addons + Create.
 Repo privado, gestionado con **[packwiz](https://packwiz.infra.link/)** — los `.jar` NO se versionan; cada mod tiene un `.pw.toml` con URL + hash, y los compas descargan los binarios desde CurseForge/Modrinth automaticamente.
 
