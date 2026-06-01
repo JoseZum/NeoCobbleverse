@@ -21,6 +21,8 @@ CLIENT_ONLY_PREFIXES = [
     'betterthirdperson',
     '[neoforge-1.21.1]accurateblockplacement',
     'bridgingmod',
+    'catchindicator',
+    'catchrate-display',
     'continuity',
     'controlling',
     'dynamiccrosshair',
