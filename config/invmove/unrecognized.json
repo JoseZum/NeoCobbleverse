@@ -50,7 +50,8 @@
     "xaero.common.gui.GuiMinimapMain": true,
     "xaero.map.gui.GuiWorldMapSettings": true,
     "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
-    "immersive_melodies.client.gui.ImmersiveMelodiesScreen": true
+    "immersive_melodies.client.gui.ImmersiveMelodiesScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true
   },
   "hideBackground": {
     "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
